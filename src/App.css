@@ -344,3 +344,6 @@ form textarea {
     left: calc(50% - 108px);
   }
 }
+form p{
+  color: red;
+}
